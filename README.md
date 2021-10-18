@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- name: Recent GitHub Activity - Profile Readme
-  uses: Readme-Workflows/recent-activity@v2.3.1
+
