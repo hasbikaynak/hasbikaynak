@@ -52,15 +52,15 @@ Here are some ideas to get you started:
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [M-Hasbi/M-Hasbi](https://github.com/M-Hasbi/M-Hasbi)
-2. 💪 Opened PR [#4](https://github.com/KeepCodingPL/eatwell/pull/4) in [KeepCodingPL/eatwell](https://github.com/KeepCodingPL/eatwell)
-3. 💪 Opened PR [#2](https://github.com/KeepCodingPL/eatwell/pull/2) in [KeepCodingPL/eatwell](https://github.com/KeepCodingPL/eatwell)
-4. ⭐ Starred [M-Hasbi/quizzler-flutter](https://github.com/M-Hasbi/quizzler-flutter)
-5. ⭐ Starred [M-Hasbi/destini-challenge-starting](https://github.com/M-Hasbi/destini-challenge-starting)
+1. 🔱 Forked [M-Hasbi/VedantKhairnar](https://github.com/M-Hasbi/VedantKhairnar) from [VedantKhairnar/VedantKhairnar](https://github.com/VedantKhairnar/VedantKhairnar)
+2. 🔱 Forked [M-Hasbi/mdurular](https://github.com/M-Hasbi/mdurular) from [mdurular/mdurular](https://github.com/mdurular/mdurular)
+3. 🔱 Forked [M-Hasbi/jamesgeorge007](https://github.com/M-Hasbi/jamesgeorge007) from [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
+4. 📔 Created new repository [M-Hasbi/M-Hasbi](https://github.com/M-Hasbi/M-Hasbi)
+5. 💪 Opened PR [#4](https://github.com/KeepCodingPL/eatwell/pull/4) in [KeepCodingPL/eatwell](https://github.com/KeepCodingPL/eatwell)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 18th, 2021, 6:35:04 PM
+Last Updated: Monday, October 18th, 2021, 8:14:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
