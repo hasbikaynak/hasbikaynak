@@ -1,6 +1,4 @@
-### Hi there 👋 I am:
- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I am 
-![1](https://github.com/M-Hasbi/M-Hasbi/blob/master/assets/name.gif)
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">I am Mehmet Hasbi
 
 - :telescope: I’m currently working on .Net C#
 - :seedling: I’m currently learning new technologies and new libraries.
