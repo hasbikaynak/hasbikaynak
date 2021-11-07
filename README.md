@@ -52,15 +52,15 @@ Here are some ideas to get you started:
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [M-Hasbi/Nlayer_project](https://github.com/M-Hasbi/Nlayer_project)
-2. 💪 Opened PR [#26](https://github.com/KeepCodingPL/eatwell/pull/26) in [KeepCodingPL/eatwell](https://github.com/KeepCodingPL/eatwell)
-3. 🎉 Merged PR [#3](https://github.com/M-Hasbi/Country-List-Project/pull/3) in [M-Hasbi/Country-List-Project](https://github.com/M-Hasbi/Country-List-Project)
-4. 💪 Opened PR [#3](https://github.com/M-Hasbi/Country-List-Project/pull/3) in [M-Hasbi/Country-List-Project](https://github.com/M-Hasbi/Country-List-Project)
-5. 🎉 Merged PR [#2](https://github.com/M-Hasbi/Country-List-Project/pull/2) in [M-Hasbi/Country-List-Project](https://github.com/M-Hasbi/Country-List-Project)
+1. ❌ Closed PR [#16](https://github.com/KeepCodingPL/eatwell/pull/16) in [KeepCodingPL/eatwell](https://github.com/KeepCodingPL/eatwell)
+2. 📔 Created new repository [M-Hasbi/Nlayer_project](https://github.com/M-Hasbi/Nlayer_project)
+3. 💪 Opened PR [#26](https://github.com/KeepCodingPL/eatwell/pull/26) in [KeepCodingPL/eatwell](https://github.com/KeepCodingPL/eatwell)
+4. 🎉 Merged PR [#3](https://github.com/M-Hasbi/Country-List-Project/pull/3) in [M-Hasbi/Country-List-Project](https://github.com/M-Hasbi/Country-List-Project)
+5. 💪 Opened PR [#3](https://github.com/M-Hasbi/Country-List-Project/pull/3) in [M-Hasbi/Country-List-Project](https://github.com/M-Hasbi/Country-List-Project)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 7th, 2021, 5:21:08 PM
+Last Updated: Sunday, November 7th, 2021, 5:40:58 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
