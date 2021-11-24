@@ -52,15 +52,15 @@ Here are some ideas to get you started:
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [M-Hasbi/ObliczenieWielkoscMatematycznych](https://github.com/M-Hasbi/ObliczenieWielkoscMatematycznych)
-2. 💪 Opened PR [#31](https://github.com/KeepCodingPL/eatwell/pull/31) in [KeepCodingPL/eatwell](https://github.com/KeepCodingPL/eatwell)
-3. ❌ Closed PR [#26](https://github.com/KeepCodingPL/eatwell/pull/26) in [KeepCodingPL/eatwell](https://github.com/KeepCodingPL/eatwell)
-4. ❌ Closed PR [#16](https://github.com/KeepCodingPL/eatwell/pull/16) in [KeepCodingPL/eatwell](https://github.com/KeepCodingPL/eatwell)
-5. 📔 Created new repository [M-Hasbi/Nlayer_project](https://github.com/M-Hasbi/Nlayer_project)
+1. 🎉 Merged PR [#1](https://github.com/M-Hasbi/NLayerProject/pull/1) in [M-Hasbi/NLayerProject](https://github.com/M-Hasbi/NLayerProject)
+2. 💪 Opened PR [#1](https://github.com/M-Hasbi/NLayerProject/pull/1) in [M-Hasbi/NLayerProject](https://github.com/M-Hasbi/NLayerProject)
+3. 📔 Created new repository [M-Hasbi/ObliczenieWielkoscMatematycznych](https://github.com/M-Hasbi/ObliczenieWielkoscMatematycznych)
+4. 💪 Opened PR [#31](https://github.com/KeepCodingPL/eatwell/pull/31) in [KeepCodingPL/eatwell](https://github.com/KeepCodingPL/eatwell)
+5. ❌ Closed PR [#26](https://github.com/KeepCodingPL/eatwell/pull/26) in [KeepCodingPL/eatwell](https://github.com/KeepCodingPL/eatwell)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 24th, 2021, 7:11:30 PM
+Last Updated: Wednesday, November 24th, 2021, 7:35:27 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
