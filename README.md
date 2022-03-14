@@ -52,15 +52,15 @@ Here are some ideas to get you started:
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [M-Hasbi/CountryListApp](https://github.com/M-Hasbi/CountryListApp)
-2. 📔 Created new repository [M-Hasbi/NLayerUdemyApp](https://github.com/M-Hasbi/NLayerUdemyApp)
-3. 📔 Created new repository [M-Hasbi/CountryListProject2](https://github.com/M-Hasbi/CountryListProject2)
-4. 📔 Created new repository [M-Hasbi/CountryListAttemp2](https://github.com/M-Hasbi/CountryListAttemp2)
-5. 📔 Created new repository [M-Hasbi/MyExercises](https://github.com/M-Hasbi/MyExercises)
+1. 💪 Opened PR [#1](https://github.com/M-Hasbi/CountryListApp/pull/1) in [M-Hasbi/CountryListApp](https://github.com/M-Hasbi/CountryListApp)
+2. 📔 Created new repository [M-Hasbi/CountryListApp](https://github.com/M-Hasbi/CountryListApp)
+3. 📔 Created new repository [M-Hasbi/NLayerUdemyApp](https://github.com/M-Hasbi/NLayerUdemyApp)
+4. 📔 Created new repository [M-Hasbi/CountryListProject2](https://github.com/M-Hasbi/CountryListProject2)
+5. 📔 Created new repository [M-Hasbi/CountryListAttemp2](https://github.com/M-Hasbi/CountryListAttemp2)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 14th, 2022, 6:17:17 PM
+Last Updated: Monday, March 14th, 2022, 6:40:47 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
