@@ -52,15 +52,15 @@ Here are some ideas to get you started:
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1](https://github.com/M-Hasbi/CountryListApp/pull/1) in [M-Hasbi/CountryListApp](https://github.com/M-Hasbi/CountryListApp)
-2. 💪 Opened PR [#1](https://github.com/M-Hasbi/CountryListApp/pull/1) in [M-Hasbi/CountryListApp](https://github.com/M-Hasbi/CountryListApp)
-3. 📔 Created new repository [M-Hasbi/CountryListApp](https://github.com/M-Hasbi/CountryListApp)
-4. 📔 Created new repository [M-Hasbi/NLayerUdemyApp](https://github.com/M-Hasbi/NLayerUdemyApp)
-5. 📔 Created new repository [M-Hasbi/CountryListProject2](https://github.com/M-Hasbi/CountryListProject2)
+1. 📔 Created new repository [M-Hasbi/DesignPatterns](https://github.com/M-Hasbi/DesignPatterns)
+2. 🎉 Merged PR [#1](https://github.com/M-Hasbi/CountryListApp/pull/1) in [M-Hasbi/CountryListApp](https://github.com/M-Hasbi/CountryListApp)
+3. 💪 Opened PR [#1](https://github.com/M-Hasbi/CountryListApp/pull/1) in [M-Hasbi/CountryListApp](https://github.com/M-Hasbi/CountryListApp)
+4. 📔 Created new repository [M-Hasbi/CountryListApp](https://github.com/M-Hasbi/CountryListApp)
+5. 📔 Created new repository [M-Hasbi/NLayerUdemyApp](https://github.com/M-Hasbi/NLayerUdemyApp)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 17th, 2022, 9:36:11 PM
+Last Updated: Thursday, March 17th, 2022, 10:14:47 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
