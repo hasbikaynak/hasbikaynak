@@ -52,15 +52,15 @@ Here are some ideas to get you started:
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [hasbikaynak/test](https://github.com/hasbikaynak/test)
-2. ⭐ Starred [M-Hasbi/spring2022Java](https://github.com/M-Hasbi/spring2022Java)
-3. 📔 Created new repository [M-Hasbi/spring2022Java](https://github.com/M-Hasbi/spring2022Java)
-4. 🎉 Merged PR [#1](https://github.com/M-Hasbi/CountryListApp/pull/1) in [M-Hasbi/CountryListApp](https://github.com/M-Hasbi/CountryListApp)
+1. 📔 Created new repository [hasbikaynak/survivor](https://github.com/hasbikaynak/survivor)
+2. 📔 Created new repository [hasbikaynak/test](https://github.com/hasbikaynak/test)
+3. ⭐ Starred [M-Hasbi/spring2022Java](https://github.com/M-Hasbi/spring2022Java)
+4. 📔 Created new repository [M-Hasbi/spring2022Java](https://github.com/M-Hasbi/spring2022Java)
 5. 💪 Opened PR [#1](https://github.com/M-Hasbi/CountryListApp/pull/1) in [M-Hasbi/CountryListApp](https://github.com/M-Hasbi/CountryListApp)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 16th, 2022, 5:37:47 PM
+Last Updated: Saturday, July 16th, 2022, 6:17:58 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
