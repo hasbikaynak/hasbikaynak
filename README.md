@@ -56,15 +56,15 @@ Here are some ideas to get you started:
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [hasbikaynak/self-html-css-learnings](https://github.com/hasbikaynak/self-html-css-learnings)
-2. 📔 Created new repository [hasbikaynak/summer22jdbc](https://github.com/hasbikaynak/summer22jdbc)
-3. 🎉 Merged PR [#4](https://github.com/devteam8889/project01/pull/4) in [devteam8889/project01](https://github.com/devteam8889/project01)
-4. 🎉 Merged PR [#5](https://github.com/devteam8889/project01/pull/5) in [devteam8889/project01](https://github.com/devteam8889/project01)
-5. 💪 Opened PR [#5](https://github.com/devteam8889/project01/pull/5) in [devteam8889/project01](https://github.com/devteam8889/project01)
+1. 📔 Created new repository [hasbikaynak/password-generator](https://github.com/hasbikaynak/password-generator)
+2. 📔 Created new repository [hasbikaynak/self-html-css-learnings](https://github.com/hasbikaynak/self-html-css-learnings)
+3. 📔 Created new repository [hasbikaynak/summer22jdbc](https://github.com/hasbikaynak/summer22jdbc)
+4. 🎉 Merged PR [#4](https://github.com/devteam8889/project01/pull/4) in [devteam8889/project01](https://github.com/devteam8889/project01)
+5. 🎉 Merged PR [#5](https://github.com/devteam8889/project01/pull/5) in [devteam8889/project01](https://github.com/devteam8889/project01)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 2nd, 2022, 9:14:04 PM
+Last Updated: Tuesday, August 2nd, 2022, 9:38:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
